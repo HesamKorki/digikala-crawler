@@ -1,0 +1,7 @@
+env/
+web.csv
+model.py
+products.csv
+wiki.txt
+Crawler/products.jl
+
